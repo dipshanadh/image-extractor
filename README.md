@@ -23,7 +23,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 ```bash
 # Clone the repository
 $ git clone https://github.com/dipshanadh/mern-gigs.git
-folder
 
 # Go to the the client folder of the project
 $ cd mern-gigs/client
